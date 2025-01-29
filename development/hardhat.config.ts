@@ -3,7 +3,8 @@ import "@nomicfoundation/hardhat-toolbox";
 
 const { vars } = require("hardhat/config");
 
-const privateKey = vars.get("PRIVATE_KEY", "");
+const PRIVATE_KEY = vars.get("PRIVATE_KEY", "");
+const INFURA_API_KEY = vars.get("INFURA_API_KEY", "");
 
 const config: HardhatUserConfig = {
   solidity: "0.8.28",
@@ -12,8 +13,8 @@ const config: HardhatUserConfig = {
     hardhat: {
     },
     sepolia: {
-      url: "https://sepolia.infura.io/v3/<key>",
-      accounts: [privateKey]
+      url: `https://sepolia.infura.io/v3/${INFURA_API_KEY}`,
+      accounts: [PRIVATE_KEY]
     }
   }
 };
