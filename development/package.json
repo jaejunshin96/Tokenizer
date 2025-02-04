@@ -1,13 +1,5 @@
 {
-  "name": "tokenizer",
-  "version": "1.0.0",
-  "description": "Create my own token using erc-20",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
+  "name": "hardhat-project",
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox": "^5.0.0",
     "hardhat": "^2.22.18"
