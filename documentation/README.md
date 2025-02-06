@@ -1,7 +1,7 @@
-# **42EvalToken: Decentralized Peer Evaluation System**
+# **EvalToken42: Decentralized Peer Evaluation System**
 
 ## **Overview**
-42EvalToken (`42ET`) is an ERC-20 token designed for **peer evaluations in educational environments**.
+EvalToken42 (`ET42`) is an ERC-20 token designed for **peer evaluations in educational environments**.
 - **Evaluatees** request evaluations by paying **1ET**.
 - **Evaluators** complete reviews and earn **1ET** as a reward.
 - A **FIFO queue** manages pending evaluations to ensure fairness.
@@ -27,7 +27,7 @@
 
 ---
 
-## **Requirements to Use 42ET**
+## **Requirements to Use ET42**
 ✅ **Metamask Wallet** – To send and receive tokens.
 ✅ **42ET Tokens** – Earned via `welcome()` or bought from an exchange (if listed).
 ✅ **Sepolia Testnet ETH** – Needed for transaction fees.
