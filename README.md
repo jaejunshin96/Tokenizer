@@ -1,7 +1,7 @@
-# **42EvalToken: Development Stack & Design Choices**
+# **EvalToken42: Development Stack & Design Choices**
 
 ## **Introduction**
-42EvalToken (`42ET`) is a decentralized peer evaluation system built on Ethereum.
+EvalToken42 (`ET42`) is a decentralized peer evaluation system built on Ethereum.
 This README explains the **development stack** used and the **choices made** during development.
 
 ---
