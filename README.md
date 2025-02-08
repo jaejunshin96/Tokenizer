@@ -1,6 +1,6 @@
 # **EvalToken42: Development Stack & Design Choices**  
 
-EvalToken42 (`ET42`) is a **decentralized peer evaluation system** on Ethereum.  
+EvalToken42 (`ET42`) is a **decentralized peer evaluation system** on Sepolia testnet.  
 This README explains the **development stack** and **design choices** behind it.  
 
 ---
