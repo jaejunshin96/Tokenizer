@@ -40,5 +40,3 @@ This README explains the **development stack** and **design choices** behind it.
 ✔ **Etherscan Support** – Verify and interact with contracts easily.  
 
 ---
-
-🚀 **Next Steps:** [Add relevant links here]  
