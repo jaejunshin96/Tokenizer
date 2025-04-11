@@ -45,6 +45,17 @@ Students can request evaluations, and evaluators earn **1ET** for completing the
 
 ---
 
+## 💻 **How to deploy and verify**
+1. npm install
+2. npm run compile
+3. npx hardhat vars set ALCHEMY_API_KEY
+    npx hardhat vars set PRIVATE_KEY
+    npx hardhat vars set BASESCAN_API_KEY
+4. npx hardhat ignition deploy ./ignition/modules/EvalToken42.ts --network sepolia
+5. npx hardhat verify --network sepolia "The deployed address"
+
+---
+
 ## 🔥 **Why Use ET42?**
 ✔ **Fair Peer Reviews** – FIFO system prevents bias.<br/>
 ✔ **Earn Rewards** – Evaluators get **1ET** per review.<br/>
