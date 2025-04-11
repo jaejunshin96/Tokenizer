@@ -46,8 +46,8 @@ Students can request evaluations, and evaluators earn **1ET** for completing the
 ---
 
 ## 🔥 **Why Use ET42?**
-✔ **Fair Peer Reviews** – FIFO system prevents bias.
-✔ **Earn Rewards** – Evaluators get **1ET** per review.
+✔ **Fair Peer Reviews** – FIFO system prevents bias.<br/>
+✔ **Earn Rewards** – Evaluators get **1ET** per review.<br/>
 ✔ **Transparent & Secure** – Blockchain ensures fairness.
 
 ---
