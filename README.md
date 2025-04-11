@@ -19,24 +19,24 @@ This README explains the **development stack** and **design choices** behind it.
 ## 🔹 **Why These Choices?**
 
 ### **🛠 Hardhat (Smart Contract Framework)**
-✔ **Powerful Debugging** – Use `console.log()` inside Solidity.
-✔ **Fast & Efficient** – Runs local Ethereum nodes for quick testing.
-✔ **Seamless Integration** – Works well with `ethers.js`.
+✔ **Powerful Debugging** – Use `console.log()` inside Solidity.<br/>
+✔ **Fast & Efficient** – Runs local Ethereum nodes for quick testing.<br/>
+✔ **Seamless Integration** – Works well with `ethers.js`.<br/>
 ✔ **Plugins** – Supports gas reports, contract verification, and more.
 
 ### **🔐 Solidity (Smart Contract Language)**
-✔ **Industry Standard** – Used across Ethereum & Layer-2 solutions.
-✔ **Secure & Auditable** – Supports OpenZeppelin libraries for security.
+✔ **Industry Standard** – Used across Ethereum & Layer-2 solutions.<br/>
+✔ **Secure & Auditable** – Supports OpenZeppelin libraries for security.<br/>
 ✔ **Gas Optimization** – Helps reduce transaction costs.
 
 ### **🔍 Etherscan (Blockchain Explorer)**
-✔ **Contract Verification** – Users can audit and interact with the contract.
-✔ **Transaction Tracking** – Debug and verify contract execution.
+✔ **Contract Verification** – Users can audit and interact with the contract.<br/>
+✔ **Transaction Tracking** – Debug and verify contract execution.<br/>
 ✔ **No-Code Interaction** – Call contract functions without writing code.
 
 ### **🌐 Sepolia Testnet (Ethereum Test Network)**
-✔ **Safe Testing** – No real ETH needed.
-✔ **Fast Transactions** – Quick block confirmations for smoother testing.
+✔ **Safe Testing** – No real ETH needed.<br/>
+✔ **Fast Transactions** – Quick block confirmations for smoother testing.<br/>
 ✔ **Etherscan Support** – Verify and interact with contracts easily.
 
 ---
