@@ -6,10 +6,10 @@ Students can request evaluations, and evaluators earn **1ET** for completing the
 ---
 
 ## 🚀 **How It Works**
-1️⃣ **Join** – New users call `welcome()` to get **42ET** (one-time).
-2️⃣ **Request Evaluation** – Call `requestEvaluation()` (costs **1ET**).
-3️⃣ **Accept Evaluation** – Evaluators pick a request with `acceptEvaluation(evalId)`.
-4️⃣ **Complete Evaluation** – Both parties confirm via `completeEvaluation(evalId)`, and the evaluator **earns 1ET**.
+1️⃣ **Join** – New users call `welcome()` to get **42ET** (one-time).<br/>
+2️⃣ **Request Evaluation** – Call `requestEvaluation()` (costs **1ET**).<br/>
+3️⃣ **Accept Evaluation** – Evaluators pick a request with `acceptEvaluation(evalId)`.<br/>
+4️⃣ **Complete Evaluation** – Both parties confirm via `completeEvaluation(evalId)`, and the evaluator **earns 1ET**.<br/>
 
 🔄 A **FIFO queue** ensures fair request distribution.
 
